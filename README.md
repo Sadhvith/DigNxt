@@ -1,0 +1,2 @@
+# DigNxt
+Trying own project
